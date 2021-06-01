@@ -39,7 +39,11 @@ https://github.com/INRIA/scikit-learn-mooc/tree/master/datasets
 - Vim extension for Jupyter Notebooks https://github.com/lambdalisue/jupyter-vim-binding
 
 ### Meetup events
-- https://www.meetup.com/hs3city/events/278213715/
+**past**   
+[Module 1](https://www.meetup.com/hs3city/events/278213715/)
+    
+**upcoming**   
+[Module 2](https://www.meetup.com/pl-PL/hs3city/events/rrdpjsyccjbfb/)
 
 ## Fun stuff
 
