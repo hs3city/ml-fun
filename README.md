@@ -38,6 +38,9 @@ https://github.com/INRIA/scikit-learn-mooc/tree/master/datasets
 - Intro to Jupyter Notebooks https://github.com/fastai/fastbook/blob/master/app_jupyter.ipynb
 - Vim extension for Jupyter Notebooks https://github.com/lambdalisue/jupyter-vim-binding
 
+### Apply the knowledge that you’ve learned on projects or Kaggle competitions
+- https://www.kaggle.com/c/tabular-playground-series-jun-2021
+
 ### Meetup events
 **past**   
 [Module 1](https://www.meetup.com/hs3city/events/278213715/)
@@ -52,6 +55,6 @@ https://github.com/INRIA/scikit-learn-mooc/tree/master/datasets
 ```python
 import antigravity
 import this
-import from __future__ impor braces
+import from __future__ import braces
 ```
 
