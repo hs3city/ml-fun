@@ -11,6 +11,9 @@ https://github.com/INRIA/scikit-learn-mooc/
 ### Course as static website:
 https://inria.github.io/scikit-learn-mooc/
 
+### Course forums (direct link):  
+https://mooc-forums.inria.fr/moocsl/
+
 ## Resources
 
 ### Where to run the notebooks
