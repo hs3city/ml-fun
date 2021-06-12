@@ -40,7 +40,7 @@ https://github.com/INRIA/scikit-learn-mooc/tree/master/datasets
 - https://www.kaggle.com/learn
 - Intro to Jupyter Notebooks https://github.com/fastai/fastbook/blob/master/app_jupyter.ipynb
 - Vim extension for Jupyter Notebooks https://github.com/lambdalisue/jupyter-vim-binding
-
+- Built-in magic commands https://ipython.readthedocs.io/en/stable/interactive/magics.html
 ### Apply the knowledge that you’ve learned on projects or Kaggle competitions
 - https://www.kaggle.com/c/tabular-playground-series-jun-2021
 
