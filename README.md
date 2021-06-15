@@ -47,7 +47,7 @@ https://github.com/INRIA/scikit-learn-mooc/tree/master/datasets
 ### Meetup events
 **past**   
 [Module 1 - 27.05.2021](https://www.meetup.com/hs3city/events/278213715/)  
-[Module 2 - 01.06.2021](https://www.meetup.com/pl-PL/hs3city/events/rrdpjsyccjbfb/) 
+[Module 2 - 01.06.2021](https://www.meetup.com/pl-PL/hs3city/events/rrdpjsyccjbfb/)  
 [Module 3 - 10.06.2021](https://www.meetup.com/pl-PL/hs3city/events/rrdpjsyccjbnb/)  
     
 **upcoming**    
